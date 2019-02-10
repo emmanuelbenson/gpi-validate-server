@@ -1,0 +1,85 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "blOHP3HPYU+IeV6yWCalQuuM+zE=",
+			"path": "github.com/dgrijalva/jwt-go",
+			"revision": "3af4c746e1c248ee8491a3e0c6f7a9cd831e95f8",
+			"revisionTime": "2018-09-21T17:23:15Z"
+		},
+		{
+			"checksumSHA1": "2Ae4bfJqmW2ktRsSP+ARgkr1JEc=",
+			"path": "github.com/go-chi/chi",
+			"revision": "def7567e149e3f66f2a3d62c6114e8d1731720c4",
+			"revisionTime": "2018-12-10T20:01:25Z"
+		},
+		{
+			"checksumSHA1": "5WYt5AuhGbQbJrkvcW8k5VVm9/o=",
+			"path": "github.com/go-chi/chi/middleware",
+			"revision": "def7567e149e3f66f2a3d62c6114e8d1731720c4",
+			"revisionTime": "2018-12-10T20:01:25Z"
+		},
+		{
+			"checksumSHA1": "b4DmyMT9bicTRVJw1hJXHLhIH+0=",
+			"path": "github.com/go-playground/locales",
+			"revision": "f63010822830b6fe52288ee52d5a1151088ce039",
+			"revisionTime": "2018-03-23T16:04:04Z"
+		},
+		{
+			"checksumSHA1": "JgF260rC9YpWyY5WEljjimWLUXs=",
+			"path": "github.com/go-playground/locales/currency",
+			"revision": "f63010822830b6fe52288ee52d5a1151088ce039",
+			"revisionTime": "2018-03-23T16:04:04Z"
+		},
+		{
+			"checksumSHA1": "7QcjNTtW0Rc/5BPw1MPaQ6YNjso=",
+			"path": "github.com/go-playground/universal-translator",
+			"revision": "71201497bace774495daed26a3874fd339e0b538",
+			"revisionTime": "2017-03-27T19:17:03Z"
+		},
+		{
+			"checksumSHA1": "r89NVOyv2X4KagJNkB7a4rZvMg4=",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": "361f66ef3b53de1f16b7f2af9ef38a6c159ceb3e",
+			"revisionTime": "2018-10-01T07:22:39Z"
+		},
+		{
+			"checksumSHA1": "qUfWkFlJqc24xFWAsWxKkyyO+zw=",
+			"path": "github.com/jinzhu/gorm",
+			"revision": "742154be9a26e849f02d296073c077e0a7c23828",
+			"revisionTime": "2018-10-07T00:49:37Z"
+		},
+		{
+			"checksumSHA1": "eECxSkwh0WmhLwaxHfkvcLOWS08=",
+			"path": "github.com/jinzhu/gorm/dialects/mysql",
+			"revision": "742154be9a26e849f02d296073c077e0a7c23828",
+			"revisionTime": "2018-10-07T00:49:37Z"
+		},
+		{
+			"checksumSHA1": "4eelJOSLZoDzLuaJvgilOBVNovU=",
+			"path": "github.com/jinzhu/inflection",
+			"revision": "04140366298a54a039076d798123ffa108fff46c",
+			"revisionTime": "2018-03-08T03:36:59Z"
+		},
+		{
+			"checksumSHA1": "P/k5ZGf0lEBgpKgkwy++F7K1PSg=",
+			"path": "gopkg.in/go-playground/validator.v8",
+			"revision": "5f1438d3fca68893a817e4a66806cea46a9e4ebf",
+			"revisionTime": "2017-07-30T05:02:35Z"
+		},
+		{
+			"checksumSHA1": "AbuKUV0gxECkRpjb2fmgo3DZYac=",
+			"path": "gopkg.in/go-playground/validator.v9",
+			"revision": "ab2a8a99087e827c9af87ed6777ba897348fb178",
+			"revisionTime": "2018-07-09T15:35:10Z"
+		},
+		{
+			"checksumSHA1": "ki3L6y+DkhyPJHTz8AOqrLSuIL4=",
+			"path": "gorilla/handlers",
+			"revision": "90663712d74cb411cbef281bc1e08c19d1a76145",
+			"revisionTime": "2017-11-01T17:43:35Z"
+		}
+	],
+	"rootPath": "github.com/emmanuelbenson/gpi-validate-v2"
+}
